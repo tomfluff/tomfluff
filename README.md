@@ -1,5 +1,5 @@
 - Hi, I’m Yotam! 👋
-- University of Tokyo Student for Creative informatics in Japan. 🇯🇵
+- Student at the University of Tokyo in the department of Creative informatics. 🇯🇵
 - Researching a **Machine Learning** (Deep Learning) algorithms to support people with disabilities for a barriar free world. 📚
 - Traveling, gaming, languages, drawiong and growing plants! 💖
 - Feel free to contact me anytime. 🤓
